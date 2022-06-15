@@ -19,3 +19,5 @@ https://stackoverflow.com/questions/58156682/threejs-and-vr-webxr-debugging
 
 ### WebXR experiences
 - https://toji.github.io/webxr-particles/
+- https://immersive-web.github.io/webxr-samples/
+- https://mixedreality.mozilla.org/hello-webxr/
